@@ -158,7 +158,13 @@ body {
 }
   
 .subscribBtn {
-  border-radius: 20px;
+  border-radius: 10px;
   margin-top: -16px;
+}
+
+.more-btn {
+  font-size:16px; 
+  color:#fff; 
+  display:inline-block
 }
   
